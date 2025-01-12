@@ -35,3 +35,12 @@ To run our project:
 7. From http://localhost, enter the directory 'CSE482-Project-Final-Group-7'.
 
 8. From here, to use our website, open the file 'login_page.php'.
+
+
+
+### Special thanks to my Teammates who had a huge contributed in this project :
+* Numaer M. Islam
+* Swobaat Reeswa
+* Sajjad Ali Sazol
+
+  
